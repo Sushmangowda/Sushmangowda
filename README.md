@@ -9,6 +9,13 @@
 
 ---
 
+## 🌐 Connect with me
+<p align="center">
+📧 sushmangowda3@gmail.com
+</p>
+
+---
+
 ## 🛠️ Skills & Tools
 <p align="center">
 <img src="https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white"/>
@@ -16,6 +23,7 @@
 <img src="https://img.shields.io/badge/ESP32-E7352C?style=for-the-badge"/>
 <img src="https://img.shields.io/badge/Arduino-00979D?style=for-the-badge&logo=Arduino&logoColor=white"/>
 <img src="https://img.shields.io/badge/Flask-000000?style=for-the-badge&logo=flask"/>
+<img src="https://img.shields.io/badge/IoT-FF6F00?style=for-the-badge"/>
 </p>
 
 ---
@@ -23,7 +31,7 @@
 ## 🚀 Projects
 <p align="center">
 🌱 <b>Smart Irrigation System</b><br>
-Soil Moisture Monitoring | Auto Irrigation | ESP32 | Flask Dashboard
+Soil Moisture Monitoring | Automatic Irrigation | ESP32 | Flask Dashboard
 </p>
 
 ---
@@ -33,4 +41,18 @@ Soil Moisture Monitoring | Auto Irrigation | ESP32 | Flask Dashboard
 <img src="https://github-readme-stats.vercel.app/api?username=Sushmangowda&show_icons=true&theme=tokyonight"/>
 <br>
 <img src="https://github-readme-streak-stats.herokuapp.com/?user=Sushmangowda&theme=tokyonight"/>
+</p>
+
+---
+
+## 🔥 Contribution Graph
+<p align="center">
+<img src="https://github-readme-activity-graph.vercel.app/graph?username=Sushmangowda&theme=tokyo-night"/>
+</p>
+
+---
+
+## ✨ Quote
+<p align="center">
+"Building smart systems for a smarter future 🌱"
 </p>
