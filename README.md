@@ -1,3 +1,10 @@
+<p align="center">
+<img src="https://capsule-render.vercel.app/api?type=waving&color=0:00b09b,100:96c93d&height=200&section=header&text=Sushma%20N%20Gowda&fontSize=30&fontColor=ffffff"/>
+</p>
+
+<p align="center">
+<img src="https://readme-typing-svg.herokuapp.com?color=36BCF7&lines=ECE+Student;IoT+Developer;Embedded+Systems+Engineer;Smart+Irrigation+Project&center=true&width=500&height=50">
+</p>
 <h1 align="center">Hi 👋, I'm Sushma N Gowda</h1>
 <h3 align="center">🎓 ECE Student | IoT & Embedded Systems Enthusiast</h3>
 
