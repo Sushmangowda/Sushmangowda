@@ -1,32 +1,30 @@
+  ⚡ ECE | 🐍 Python & C++ | 🔌 Embedded & IoT | 🚀 Building Smart Systems<!-- 🌊 Animated Banner -->
 <p align="center">
 <img src="https://capsule-render.vercel.app/api?type=waving&color=0:00b09b,100:96c93d&height=200&section=header&text=Sushma%20N%20Gowda&fontSize=30&fontColor=ffffff"/>
 </p>
 
+<!-- ⌨️ Typing Animation -->
 <p align="center">
 <img src="https://readme-typing-svg.herokuapp.com?color=36BCF7&lines=ECE+Student;IoT+Developer;Embedded+Systems+Engineer;Smart+Irrigation+Project&center=true&width=500&height=50">
 </p>
-<h1 align="center">Hi 👋, I'm Sushma N Gowda</h1>
-<h3 align="center">🎓 ECE Student | IoT & Embedded Systems Enthusiast</h3>
 
-<p align="center">
-🚀 Passionate about Smart Systems, Automation & AI <br>
-🌱 Working on Smart Irrigation System <br>
-📍 Ramanagara, India
-</p>
+<h1 align="center">Hi 👋, I'm Sushma N Gowda</h1>
+<h3 align="center">Embedded Systems & IoT Enthusiast</h3>
 
 ---
 
-## 🌐 Connect with me
-<p align="center">
-📧 sushmangowda3@gmail.com
-</p>
+## 🚀 About Me
+- 🎓 ECE Student  
+- 🌱 Working on Smart Irrigation System  
+- 🔌 Interested in IoT & Embedded Systems  
+- 💡 Passionate about building smart solutions  
 
 ---
 
 ## 🛠️ Skills & Tools
 <p align="center">
 <img src="https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white"/>
-<img src="https://img.shields.io/badge/C-00599C?style=for-the-badge&logo=c&logoColor=white"/>
+<img src="https://img.shields.io/badge/C++-00599C?style=for-the-badge&logo=c%2B%2B&logoColor=white"/>
 <img src="https://img.shields.io/badge/ESP32-E7352C?style=for-the-badge"/>
 <img src="https://img.shields.io/badge/Arduino-00979D?style=for-the-badge&logo=Arduino&logoColor=white"/>
 <img src="https://img.shields.io/badge/Flask-000000?style=for-the-badge&logo=flask"/>
@@ -35,11 +33,12 @@
 
 ---
 
-## 🚀 Projects
-<p align="center">
-🌱 <b>Smart Irrigation System</b><br>
-Soil Moisture Monitoring | Automatic Irrigation | ESP32 | Flask Dashboard
-</p>
+## 🌱 Featured Project
+### Smart Irrigation System
+✔ Real-time Soil Moisture Monitoring  
+✔ Automatic Irrigation Control  
+✔ ESP32 + Sensors  
+✔ Flask Dashboard  
 
 ---
 
